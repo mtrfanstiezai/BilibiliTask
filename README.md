@@ -1,6 +1,6 @@
 # Bilibili Task Mirror <!-- omit in toc -->
 
-> 本仓库是 srcrs/BlibiliTask 的一个镜像
+> 本仓库是 srcrs/BlibiliTask 的一个镜像。
 
 <!-- <img src="https://img.shields.io/github/issues/srcrs/BilibiliTask?color=green">
 <img src="https://img.shields.io/github/stars/srcrs/BilibiliTask?color=yellow">
